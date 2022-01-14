@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Wrapped Identity into Identities for structuring data of a 10 people    -->
+<Identitities>
+    <Identity>
+        <Name>
+            <FirstName>Bhavika</FirstName>
+            <MiddleName>Jagdishbhai</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Devang</FirstName>
+            <MiddleName>Jagdishbhai</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Hiren</FirstName>
+            <MiddleName>Jagdishbhai</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+        <Identity>
+        <Name>
+            <FirstName>Bhoomika</FirstName>
+            <MiddleName>Deval</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Hiral</FirstName>
+            <MiddleName>Pareshbhai</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Janki</FirstName>
+            <MiddleName>Devansh</MiddleName>
+            <LastName>Patel</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+        <Identity>
+        <Name>
+            <FirstName>Tanisha</FirstName>
+            <MiddleName>Vimalbhai</MiddleName>
+            <LastName>Shah</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Ishita</FirstName>
+            <MiddleName>Mukul</MiddleName>
+            <LastName>Shah</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+    <Identity>
+        <Name>
+            <FirstName>Ridhdhi</FirstName>
+            <MiddleName>Jagdishbhai</MiddleName>
+            <LastName>Thokia</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+        <Identity>
+        <Name>
+            <FirstName>Neha</FirstName>
+            <MiddleName>Nevil</MiddleName>
+            <LastName>Modi</LastName>
+        </Name>
+        <Hobbies>
+            <Hobby>Programming</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Drawing</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </Hobbies>
+    </Identity>
+</Identitities>

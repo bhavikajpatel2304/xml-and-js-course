@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Identity>
+    <Name>
+        <FirstName>Bhavika</FirstName>
+        <MiddleName>Jagdishbhai</MiddleName>
+        <LastName>Patel</LastName>
+    </Name>
+    <HumberID>N01432720</HumberID>
+    <ContactInfo>
+        <Email>bhavikajpatel2304@gmail.com</Email>
+    </ContactInfo>
+    <Education>
+        <School>Smt. Lilaba High School, India</School>
+        <Diploma>Diploma in Computer Engineering, India</Diploma>
+        <Bachelor>Bachelor in Computer Engineering, India</Bachelor>
+        <PG>Information Technology Solutions, Humber College, Canada</PG>
+    </Education>
+    <Skills>
+        Software Development
+    </Skills>
+    <Hobbies>
+        <Hobby>Programming</Hobby>
+        <Hobby>Cooking</Hobby>
+        <Hobby>Drawing</Hobby>
+        <Hobby>Listening Music</Hobby>
+    </Hobbies>
+    <Interests>
+        <Interest>Travelling</Interest>
+        <Interest>Reading Poems</Interest>
+    </Interests>
+</Identity>
