@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--    This document contains data of multiple Business Cards    -->
+<BusinessCard>
+<persons>
+   <person>
+        <name>Joe Marini</name>
+        <phone>
+            <home>+1 (415) 555-1234 (home)</home>
+            <work>+1 (800) 555-9867 (work)</work>
+            <mobile>+1 (510) 555-1212 (mobile)</mobile>
+        </phone>
+        <email>joe@joe.com</email>
+    </person>
+    <person>
+        <name>Bhavika Patel</name>
+        <phone>
+            <home>+1 (437) 987-4725 (home)</home>
+            <work>+1 (800) 555-9867 (work)</work>
+            <mobile>+1 (510) 555-1212 (mobile)</mobile>
+        </phone>
+        <email>bhavikajpatel2304@gmail.com</email>
+    </person>
+    <person>
+        <name>Devang Patel</name>
+        <phone>
+            <home>+1 (437) 555-1234 (home)</home>
+            <work>+1 (800) 555-9867 (work)</work>
+            <mobile>+1 (510) 555-1212 (mobile)</mobile>
+        </phone>
+        <email>pdeavng1998@gmail.com</email>
+    </person>
+</persons>
+</BusinessCard>
