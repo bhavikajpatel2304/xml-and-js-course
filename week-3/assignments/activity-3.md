@@ -6,4 +6,4 @@
 2. Validate it using [https://www.freeformatter.com/xml-validator-xsd.html](https://www.freeformatter.com/xml-validator-xsd.html) and take a screenshot of validation results
     ### **Answer: activity-3.jpg**
     #
-    ![image info](../assignments/activity-3.JPG)
+    ![image info](../assignments/activity-3.jpg)
