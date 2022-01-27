@@ -38,3 +38,4 @@ Resolve naming collision by adding namepsaces
 - department schema - urn:corp:dep
 
 Save file as `week-3/asssignments/activity-2.xml`
+### **Answer:** Please refer **activity-2.xml** file
