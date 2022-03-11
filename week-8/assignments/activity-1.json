@@ -1,0 +1,51 @@
+{
+    "customers" : {
+        "customer" : [
+            {
+                "_custID" : "cust201",
+                "name" : {
+                    "_title" : "Mr.",
+                    "_text" : "John Michael"
+                },
+                "address" : "41 West Plankton Avenue, Orlando, FL 32820",
+                "phone" : "(407) 555-3476",
+                "email" : "jk@example.net",
+                "orders" : [
+                    {
+                        "_orderID" : "or1089",
+                        "_orderBy" : "cust201",
+                        "orderDate" : "2021-06-03",
+                        "items" : [
+                            {
+                                "itemPrice" : "$35.99",
+                                "itemQty" : "3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_custID" : "cust202",
+                "name" : {
+                    "_title" : "Mrs.",
+                    "_text" : "Sarah Michael"
+                },
+                "address" : "41 West Plankton Avenue, Orlando, FL 32820",
+                "phone" : "(407) 555-1234",
+                "orders" : [
+                    {
+                        "_orderID" : "or1090",
+                        "_orderBy" : "cust202",
+                        "orderDate" : "2021-10-10",
+                        "items" : [
+                            {
+                                "itemPrice" : "$45.99",
+                                "itemQty" : "1"
+                            }
+                        ]      
+                    }
+                ]
+            }
+        ]
+    }
+}
