@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+    Submitted By:
+        Name: Bhavika Jagdishbhai Patel 
+        Humber ID: N01432720 
+        Section: XML and Java Script - ITC-5202-0IA
+        Week 9 - Assignment - assignment_Bhavika_Patel.html 
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 9 - Assignment - N01432720 - Bhavika Patel</title>
+    <link rel="stylesheet" href="assignment_Bhavika_Patel.css">
+</head>
+<body>
+    <h2>Assignment 9</h2><br/>
+    
+        <fieldset>
+            <legend>Filter and Reset demo using AJAX:</legend>
+            <form onsubmit="onSubmit(event)" onreset="onReset()">
+                <br />
+                <label for="txtFilter">Enter word for search name: </label>
+                <input type="text" name="filterText" id="txtFilter" placeholder="Enter filter here"><br /><br /><br />
+                <button class="btnFilter" type="submit">Apply Filter</button>
+                <button class="btnReset" type="reset">Reset</button>
+            </form>
+            <br /><br /><br />
+            <table id="tableDisplay" border = "1">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>IP Address</th>
+                    </tr>
+                </thead>
+                <tbody id="tableDisplayBody"></tbody>
+            </table>
+        </fieldset>
+    <script type="text/javascript" src="assignment_Bhavika_Patel.js"></script>
+</body>
+<footer>
+    <p><b>Submitted By: </b><br />
+        <span><b>Name:</b> Bhavika Jagdishbhai Patel</span>
+        <span><b>Humber ID:</b> N01432720</span>
+        <span><b>Section:</b> XML and Java Script - ITC-5202-0IA</span>
+    </p>
+</footer>
+</html>
