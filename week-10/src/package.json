@@ -2,9 +2,9 @@
   "name": "src",
   "version": "1.0.0",
   "description": "",
-  "main": "activity_server.js",
+  "main": "assignment_server.js",
   "scripts": {
-    "dev": "nodemon activity_server.js"
+    "dev": "nodemon assignment_server.js"
   },
   "author": "",
   "license": "ISC",
