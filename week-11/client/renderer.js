@@ -34,7 +34,7 @@ const renderTable = (data, nameTerm) => {
   tableBody.innerHTML = rows;
 };
 
-loadData(`https://xml-and-js-course-smoky.vercel.app/api/products`).then((data) =>
+loadData(`./data.json`).then((data) =>
   renderTable(data)
 );
 
@@ -43,13 +43,13 @@ const onSubmit = (event) => {
 
   const term = event.target.name.value;
 
-  loadData(`https://xml-and-js-course-smoky.vercel.app/api/products`).then((data) =>
+  loadData(`./data.json`).then((data) =>
     renderTable(data, term)
   );
 };
 
 const onReset = () => {
-  loadData(`https://xml-and-js-course-smoky.vercel.app/api/products`).then((data) =>
+  loadData(`./data.json`).then((data) =>
     renderTable(data)
   );
 };
