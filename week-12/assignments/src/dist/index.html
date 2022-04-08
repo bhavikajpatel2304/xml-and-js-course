@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>Week 12 Assignment - N01432720 - Bhavika Patel</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+    <h1>Week 12 Assignment - N01432720 - Bhavika Patel</h1>
+    <form onsubmit="onSubmit(event)" onreset="window.location.replace(window.location.pathname)">
+      <label class="label-demo">Select First Name: </label>
+      <input type="text" name="name" id="input-name-term" placeholder="Enter First Name"/><br /><br />
+
+      <!-- check box for Language -->
+      <label class="label-demo">Select Language: </label>
+      <div id="divLanguage"></div><br /><br />  
+
+      <!-- Dropdown for Job Title -->
+      <label class="label-demo">Select Job Title: </label>
+      <select name="jobTitle" id="jobTitle"></select><br /><br />
+
+      <!-- radio button for Department -->
+      <label class="label-demo" id="lblDepartment" for="radioDepartment">Select Department: </label>
+      <div id="divDepartment"></div><br /><br />
+
+      <button type="submit">Apply filters</button>
+      <button type="reset" onclick="onReset()">Reset</button>
+    </form>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Email</th>
+          <th>Gender</th>
+          <th>IP Address</th>
+          <th>Language</th>
+          <th>Job Title</th>
+          <th>Department</th>
+          <th>LinkedIn Skill</th>
+          <th>Race</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+    <script type="text/javascript" src="./bundle.js"></script>
+  </body>
+  <footer>
+    <p><b>Week 12 Assignment <br/>Submitted By: </b><br />
+        <span><b>Name:</b> Bhavika Jagdishbhai Patel</span>
+        <span><b>Humber ID:</b> N01432720</span>
+        <span><b>Section:</b> XML and Java Script - ITC-5202-0IA</span>
+    </p>
+  </footer>
+</html>
